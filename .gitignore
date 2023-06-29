@@ -1,0 +1,5 @@
+node_modules/
+fuentes/
+*.log
+*.map
+*.ai
